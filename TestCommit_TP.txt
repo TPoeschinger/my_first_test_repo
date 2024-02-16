@@ -1,3 +1,7 @@
 Feb 16, 2024
 this is my first commit in order to learn git and github.
 
+Feb 16, 2024
+Further comments made to this text document.
+This will be the body of my second commit.
+
